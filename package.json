@@ -1,0 +1,27 @@
+{
+  "name": "my-document",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gitbook": "node_modules/.bin/gitbook",
+    "gitbook:init": "node_modules/.bin/gitbook init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://code-dev.ark.sbb-sys.info/jiadong-chen/my-document.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "dependencies": {
+    "gitbook-plugin-anchor-navigation-ex-toc": "0.0.11",
+    "gitbook-plugin-hide-published-with": "^1.0.3",
+    "gitbook-plugin-mathjax": "^1.1.2",
+    "gitbook-plugin-mindmap": "^1.2.0",
+    "gitbook-plugin-wide-page": "^1.0.1"
+  }
+}

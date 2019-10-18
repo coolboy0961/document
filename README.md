@@ -1,3 +1,4 @@
-# document
-记录一些平时的折腾心得。
+# Introduction
+Gitbook
 
+自分のノウハウをまとめる。
