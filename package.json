@@ -19,9 +19,11 @@
   },
   "dependencies": {
     "gitbook-plugin-anchor-navigation-ex-toc": "0.0.11",
+    "gitbook-plugin-expand-active-chapter": "^1.0.0",
     "gitbook-plugin-hide-published-with": "^1.0.3",
     "gitbook-plugin-mathjax": "^1.1.2",
     "gitbook-plugin-mindmap": "^1.2.0",
+    "gitbook-plugin-uml": "^1.0.2",
     "gitbook-plugin-wide-page": "^1.0.1"
   }
 }
