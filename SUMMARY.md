@@ -24,7 +24,7 @@
 
 ## infrastructure as code
 * [インターネットなしでansible_specをインストールする方法](docs/環境構築/インターネットなしでansible_specをインストールする方法.md)
-* [ansible_specを利用するノウハウ](docs/環境構築/ansible_specを利用するノウハウ.md)
+* [ansible_specを利用するノウハウ](docs/環境構築/ansible_specを利用するノウハウ.md)
 * [インターネットなしでAnsibleをインストールする方法](docs/環境構築/インターネットなしでAnsibleをインストールする方法.md)
 * [インターネットなしでGemsをインストールする方法](docs/環境構築/インターネットなしでGemsをインストールする方法.md)
 
