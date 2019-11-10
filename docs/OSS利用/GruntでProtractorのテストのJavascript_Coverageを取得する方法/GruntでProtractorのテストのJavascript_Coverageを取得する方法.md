@@ -203,6 +203,7 @@ module.exports = function (grunt) {
 ```
 
 ## SonarScanの設定ファイル
+protractorのテストで取ったcoverage reportをsonarqube server に連携する方法  
 **sonar-project.properties**
 ```properties
 sonar.projectKey=sample-JS
@@ -218,3 +219,6 @@ sonar.javascript.lcov.reportPaths=./test/coverage/report/lcov.info
 sonar.sources=js
 sonar.exclusions=js/common/tracking-analytics.js
 ```
+
+**連携時の実行コマンド**  
+`sonar-scanner`
