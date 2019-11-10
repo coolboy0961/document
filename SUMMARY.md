@@ -21,6 +21,9 @@
 
 ## テスト
 * [インターネットなしでprotractorをインストールする方法](docs/環境構築/インターネットなしでprotractorをインストールする方法.md)
+* [Protractorの使い方](docs/OSS利用/Protractorの使い方/Protractorの使い方.md)
+* [BrowserStackの使い方](docs/OSS利用/BrowserStackの使い方/BrowserStackの使い方.md)
+* [GruntでProtractorのテストのJavascript_Coverageを取得する方法](docs/OSS利用/GruntでProtractorのテストのJavascript_Coverageを取得する方法/GruntでProtractorのテストのJavascript_Coverageを取得する方法.md)
 
 ## infrastructure as code
 * [インターネットなしでansible_specをインストールする方法](docs/環境構築/インターネットなしでansible_specをインストールする方法.md)
