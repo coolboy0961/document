@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://code-dev.ark.sbb-sys.info/jiadong-chen/my-document.git"
+    "url": "https://github.com/coolboy0961/document.git"
   },
   "keywords": [],
   "author": "",
@@ -24,6 +24,7 @@
     "gitbook-plugin-mathjax": "^1.1.2",
     "gitbook-plugin-mindmap": "^1.2.0",
     "gitbook-plugin-uml": "^1.0.2",
-    "gitbook-plugin-wide-page": "^1.0.1"
+    "gitbook-plugin-wide-page": "^1.0.1",
+    "lodash": ">=4.17.13"
   }
 }
