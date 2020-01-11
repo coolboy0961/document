@@ -27,6 +27,7 @@
 * [GruntでProtractorのテストのJavascript_Coverageを取得する方法](docs/OSS利用/GruntでProtractorのテストのJavascript_Coverageを取得する方法/GruntでProtractorのテストのJavascript_Coverageを取得する方法.md)
 
 ## infrastructure as code
+* [AWSのCloud9でECSにdocker-composeでSonarqubeのコンテナを立てる](docs/環境構築/AWSのCloud9でECSにdocker-composeでSonarqubeのコンテナを立てる.md)
 * [インターネットなしでansible_specをインストールする方法](docs/環境構築/インターネットなしでansible_specをインストールする方法.md)
 * [ansible_specを利用するノウハウ](docs/環境構築/ansible_specを利用するノウハウ.md)
 * [インターネットなしでAnsibleをインストールする方法](docs/環境構築/インターネットなしでAnsibleをインストールする方法.md)
