@@ -21,6 +21,7 @@
 * [WSDLのダウンロード方法](docs/外部連携/WSDLのダウンロード方法.md)
 
 ## テスト
+* [Saucelabs browser testのサンプルプロジェクト](https://github.com/coolboy0961/nuxt-pipeline-aws)
 * [インターネットなしでprotractorをインストールする方法](docs/環境構築/インターネットなしでprotractorをインストールする方法.md)
 * [Protractorの使い方](docs/OSS利用/Protractorの使い方/Protractorの使い方.md)
 * [BrowserStackの使い方](docs/OSS利用/BrowserStackの使い方/BrowserStackの使い方.md)
