@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "gitbook": "node_modules/.bin/gitbook",
-    "gitbook:init": "node_modules/.bin/gitbook init"
+    "init": "node_modules/.bin/gitbook init",
+    "serve": "node_modules/.bin/gitbook serve"
   },
   "repository": {
     "type": "git",
