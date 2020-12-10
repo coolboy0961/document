@@ -1,2 +1,5 @@
 # 群晖Drive替代谷歌云盘
 
+和照片一样用Google takeout功能下载所有的Google Drive文件，然后全部上传到群晖Drive中。  
+群晖也提供直接从Google Drive同步的功能，但是Google的SpreadSheet，Slide等谷歌自己的文件不会被同步到群晖NAS中。  
+只有用takeout功能下载才能自动将Google自己的文件保存为Excel，PowerPoint等格式。
