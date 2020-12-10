@@ -42,11 +42,11 @@
 * [CentOSのインストール](docs/環境構築/CentOSのインストール.md)
 
 ## NAS相关
-* NAS的选购
-* 照片同步与备份
-* 群晖Drive替代谷歌云盘
-* 媒体服务器
-* 下载工具
+* [NAS的选购](docs/NAS相关/NAS的选购.md)
+* [照片同步与备份](docs/NAS相关/照片同步与备份.md)
+* [群晖Drive替代谷歌云盘](docs/NAS相关/群晖Drive替代谷歌云盘.md)
+* [媒体服务器](docs/NAS相关/媒体服务器.md)
+* [下载工具](docs/NAS相关/下载工具.md)
 
 ## 黑苹果安装
 * [OS安装](docs/黑苹果安装/OS安装.md)
