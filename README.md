@@ -1,4 +1,4 @@
 # Introduction
 Gitbook
 
-自分のノウハウをまとめる。
+自分の[ノウハウ](SUMMARY.md)をまとめる。
