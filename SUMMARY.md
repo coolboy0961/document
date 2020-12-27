@@ -47,6 +47,7 @@
 * [群晖Drive替代谷歌云盘](docs/NAS相关/群晖Drive替代谷歌云盘.md)
 * [媒体服务器](docs/NAS相关/媒体服务器.md)
 * [下载工具](docs/NAS相关/下载工具.md)
+* [电子书管理](docs/NAS相关/电子书管理.md)
 
 ## 黑苹果安装
 * [OS安装](docs/黑苹果安装/OS安装.md)
