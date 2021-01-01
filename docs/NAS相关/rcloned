@@ -10,7 +10,8 @@
 ### END INIT INFO
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
-REMOTE='gd:/'
+# REMOTE='gd_no2:/'
+REMOTE='gd_no6:/'
 LOCAL='/volume1/video/gd'
 CONFIG='/volume1/homes/coolboy0961/.config/rclone/rclone.conf'
 DEMO='rclone'
