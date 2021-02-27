@@ -41,6 +41,9 @@
 ## OSのインストール
 * [CentOSのインストール](docs/環境構築/CentOSのインストール.md)
 
+## OSS NAS
+* [構築方法](docs/OSS_NAS/oss-nas.md)
+
 ## NAS相关
 * [NAS的选购](docs/NAS相关/NAS的选购.md)
 * [照片同步与备份](docs/NAS相关/照片同步与备份.md)
