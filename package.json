@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "init": "node_modules/.bin/gitbook init",
-    "serve": "node_modules/.bin/gitbook serve"
+    "init": "honkit init",
+    "build": "honkit build",
+    "serve": "honkit serve"
   },
   "repository": {
     "type": "git",
@@ -14,9 +15,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "gitbook-cli": "^2.3.2"
-  },
   "dependencies": {
     "gitbook-plugin-anchor-navigation-ex-toc": "0.0.11",
     "gitbook-plugin-expand-active-chapter": "^1.0.0",
@@ -26,5 +24,8 @@
     "gitbook-plugin-uml": "^1.0.2",
     "gitbook-plugin-wide-page": "^1.0.1",
     "lodash": ">=4.17.13"
+  },
+  "devDependencies": {
+    "honkit": "^3.7.5"
   }
 }
