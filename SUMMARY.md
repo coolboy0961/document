@@ -36,7 +36,7 @@
 
 * [AWSのCloud9でECSにdocker-composeでSonarqubeのコンテナを立てる](docs/環境構築/AWSのCloud9でECSにdocker-composeでSonarqubeのコンテナを立てる.md)
 * [インターネットなしでansible\_specをインストールする方法](docs/環境構築/インターネットなしでansible\_specをインストールする方法.md)
-* [\[ansible\_specを利用するノウハウ\](docs/環境構築/ansible\_specを利用するノウハウ.md)](infrastructure-as-code/ansiblespecwosurunouhaudocsansiblespecwosurunouhaumd.md)
+* [ansible\_specを利用するノウハウ](infrastructure-as-code/ansiblespecwosurunouhau.md)
 * [インターネットなしでAnsibleをインストールする方法](docs/環境構築/インターネットなしでAnsibleをインストールする方法.md)
 * [インターネットなしでGemsをインストールする方法](docs/環境構築/インターネットなしでGemsをインストールする方法.md)
 
@@ -57,7 +57,7 @@
 * [媒体服务器](docs/NAS相关/媒体服务器.md)
 * [下载工具](docs/NAS相关/下载工具.md)
 * [电子书管理](docs/NAS相关/电子书管理.md)
-* [OSS NASの構築方法](nas-xiang-guan/oss-nas.md)
+* [OSS NASの構築方法](docs/OSS\_NAS/oss-nas.md)
 
 ## 黑苹果安装
 
