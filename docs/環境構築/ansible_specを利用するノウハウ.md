@@ -1,8 +1,6 @@
-# ansible\_specを利用するノウハウ
+# ansible\_specを利用するノウハウ
 
 
-
-````
 ## ディレクトリ構成
 
 ```
@@ -240,4 +238,3 @@ end
 [ansible_specの説明資料](https://github.com/volanja/ansible_spec)
 
 [serverspecの説明資料](https://serverspec.org/resource_types.html)
-````
