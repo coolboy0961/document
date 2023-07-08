@@ -25,6 +25,6 @@
     "lodash": ">=4.17.13"
   },
   "devDependencies": {
-    "honkit": "^3.7.5"
+    "honkit": "^4.0.8"
   }
 }
